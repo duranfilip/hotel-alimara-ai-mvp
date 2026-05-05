@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+*.log
+.launch.*.log
+.final-dev.*.log
+Launch Hotel Alimara MVP.cmd
